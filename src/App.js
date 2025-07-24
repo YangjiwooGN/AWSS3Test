@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import {Fragment} from "react";
+import React, {Fragment} from "react";
 
 function App() {
   return (
